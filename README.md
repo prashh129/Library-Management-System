@@ -61,6 +61,3 @@ Your book 'The Python Guide' is added!
 
 This project is **open-source** and free to use under the MIT License.
 
-
-#Python #Coding #Project #LibraryManagement #OpenSource
-
