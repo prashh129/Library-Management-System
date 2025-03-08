@@ -16,7 +16,8 @@ User-friendly CLI interface.
 
 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/Library-Management-System.git
+git clone https://github.com/prash129/Library-Management-System.git
+
 cd library-management
 
 2️⃣ Run the script
